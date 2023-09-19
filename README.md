@@ -1,6 +1,6 @@
-# Awesome-Multi-Label-Node-Classification
+# Awesome-Multi-Label-Learning-On-Graphs
 
-This repository contains a curated list of papers on (or related to) **multi-label node classification** (MLNC), which are categorized based on their published years.
+This repository contains a curated list of papers on (or related to) **multi-label learning on graphs** (MLLG), such as **multi-label node/edge/graph classification**, which are categorized based on their published years.
 
 *Continuously updating!*
 
