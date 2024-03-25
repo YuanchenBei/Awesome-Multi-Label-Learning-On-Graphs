@@ -3,7 +3,7 @@
 This repository contains a curated list of papers on (or related to) **multi-label learning on graphs** (MLLG), such as **multi-label node/edge/graph classification**, which are categorized based on their published years.
 
 *Continuously updating!*
-
+## Papers
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Multi-label Node Classification On Graph-Structured Data | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2304.10398.pdf) | [[Code]](https://github.com/Tianqi-py/MLGNC) | 
@@ -16,3 +16,13 @@ This repository contains a curated list of papers on (or related to) **multi-lab
 | Semi-supervised Graph Embedding for Multi-label Graph Node Classification | _WISE 2019_ | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_35) | N/A |
 | Multi-label relational classification via node and label correlation | _Neurocomputing 2018_ | [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231218302467) | N/A |
 
+## Datasets
+| **Dataset** | **Nodes** | **Edges** | **Classes** | **Features** |  **Unlabeled Nodes** | **Links** | 
+| --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| DBLP	| 28702 |	68335	| 4	| 300	| 0	| https://www.dropbox.com/sh/tg8nclx5gpctbmo/AADQc0YFpuVeqXhaNuUK4MMba?dl=0 |
+| Blogcatalog	| 10312	| 333983	| 39 | 100 | 0 | https://figshare.com/articles/dataset/BlogCatalog_dataset/11923611 |
+| Yelp | 716847 | 6977410 | 100 | 300 | 728 | https://github.com/GraphSAINT/GraphSAINT |
+| PPI | 14755 | 225270 | 121 | 50 | 555 | https://github.com/GraphSAINT/GraphSAINT |
+| PCG |3233	| 37351 | 15 | 32 | 0	| https://github.com/Tianqi-py/MLGNC |
+| HUMLOC | 3106 | 18496 | 14 | 32 | 0 | https://github.com/Tianqi-py/MLGNC |
+| Delve | 1229280 | 4322275	 | 20 | 300 | 1097289 | https://www.dropbox.com/sh/tg8nclx5gpctbmo/AADQc0YFpuVeqXhaNuUK4MMba?dl=0 |
