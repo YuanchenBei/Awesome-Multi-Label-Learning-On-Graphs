@@ -6,7 +6,7 @@ This repository contains a curated list of papers on (or related to) **multi-lab
 ## Papers
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
-| Multi-label Node Classification On Graph-Structured Data | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2304.10398.pdf) | [[Code]](https://github.com/Tianqi-py/MLGNC) | 
+| Multi-label Node Classification On Graph-Structured Data | _TMLR 2023_ | [[PDF]](https://openreview.net/pdf?id=EZhkV2BjDP) | [[Code]](https://github.com/Tianqi-py/MLGNC) | 
 | Semantic guide for semi-supervised few-shot multi-label node classification | _Information Sciences 2022_ | [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025522000111) | [[Code]](https://github.com/xiaolin1207/LARN) |
 | Semi-supervised Multi-label Learning for Graph-structured Data | _CIKM 2021_ |[[PDF]](https://dl.acm.org/doi/10.1145/3459637.3482391) | N/A |
 | Multi-label graph node classification with label attentive neighborhood convolution | _Expert Systems With Applications 2021_ | [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417421005042) | N/A |
